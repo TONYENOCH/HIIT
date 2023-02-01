@@ -1,0 +1,6 @@
+# done= input("what is your name:")
+# print(len(done))
+# fname = input("what is your first name:")
+# sname = input("what is your surname:")
+# statement = "my name is {}{}".format(sname,fname)
+# print (statement)   
